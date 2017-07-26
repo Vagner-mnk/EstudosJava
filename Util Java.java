@@ -1,3 +1,5 @@
+//Online compiler https://www.jdoodle.com/online-java-compiler
+
 // A Single line comment
 
 /* A
@@ -341,7 +343,21 @@ public static int checkValidAge()
 
 ///Parei no video 8
 
-
+//Video Interview Google (27:00)
+public static String breakIntoSpaces(String source)
+{
+	for (int i = 1; i <= source.length(); i++)
+	{
+		String left = source.substring(0, i);
+		String right = source.substring(i, source.length());
+        
+        if (Dictionary.contains(left) && Dictionary.contains(right))
+		{
+			return left + " " + right;
+		}					
+	}
+	return source;	
+} 
 
 
 
