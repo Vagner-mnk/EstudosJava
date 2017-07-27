@@ -31,3 +31,6 @@ https://www.youtube.com/watch?v=DINxNbBOEoI -Não técnica
 
 Questões com Linked Lists
 http://javarevisited.blogspot.com.br/2017/07/top-10-linked-list-coding-questions-and.html
+
+http://www.java67.com/2016/07/how-to-reverse-singly-linked-list-in-java-example.html
+

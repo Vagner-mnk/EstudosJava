@@ -359,7 +359,16 @@ public static String breakIntoSpaces(String source)
 	return source;	
 } 
 
-
-
-
-
+//Aula 8
+//Preencher todos as posições de um array com o mesmo valor
+import java.util.Arrays
+//array bidimensional de 10x10
+static char[][] battleBoard = new char[10][10];
+ 
+public static void preencheArray()
+{
+	for (char[] row : battleBoard)//Para cada row do tipo char em battleBoard
+	{
+		Arrays.fill(row, '*'); //Prenche o row com *
+	}
+} 
