@@ -34,3 +34,7 @@ http://javarevisited.blogspot.com.br/2017/07/top-10-linked-list-coding-questions
 
 http://www.java67.com/2016/07/how-to-reverse-singly-linked-list-in-java-example.html
 
+
+Binary Trees
+https://www.youtube.com/watch?v=ZNH0MuQ51m4
+
